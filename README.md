@@ -38,6 +38,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![](https://cdn.glitch.com/54fa3925-a66e-4b0d-ab78-d36c4d5141bd%2Fstrike%20loss.gif?v=1616621917604)
 ![](https://cdn.glitch.com/54fa3925-a66e-4b0d-ab78-d36c4d5141bd%2Fgame%20won.gif?v=1616621921590)
 ![](https://cdn.glitch.com/54fa3925-a66e-4b0d-ab78-d36c4d5141bd%2FTimer%20loss.gif?v=1616621925929)
